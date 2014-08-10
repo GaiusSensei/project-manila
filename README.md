@@ -1,4 +1,4 @@
-project-manila
+Project Manila
 ==============
 
-Project Manila
+Hello, World!
